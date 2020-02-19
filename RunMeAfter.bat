@@ -1,1 +1,0 @@
-calc2.exe "XBR" -wrap output.png output.png

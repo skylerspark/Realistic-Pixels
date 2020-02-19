@@ -1,1 +1,0 @@
-calc1.exe input.png output.png

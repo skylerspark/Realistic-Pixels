@@ -1,0 +1,1 @@
+SmushImages.exe "XBR" -wrap input.png output.png
