@@ -1,10 +1,6 @@
 # RealisticPNG
-Makes Pixelart semi-realistic. Adapted from sullerandras/terraria-hd-textures
+Makes Pixelart semi-realistic.
 Doubles the size of any png, and grabs pixels from corners and areas around it to make smoother corners and edges.
-
-**All Credit goes to Sullerandras, he created this for a smooth terraria texture pack, and the program is the main portion of it.**
-
-**Origin of my findings: [forums.terraria.org](https://forums.terraria.org/index.php?threads/enhanced-version-of-the-textures-of-terraria-1-3-0-8.39115/)**
 
 As seen from this example:
 I took the same chestplate image, exactly the same, but in two different resolutions I used the program:
