@@ -19,3 +19,5 @@ Simply place your picture next to the "SmushImages.exe" in the folder.
 From a CLI like cmd, call `SmushImages.exe "XBR" -wrap input.png output.png`.
 Rename `input.png` and `output.png` to whatever you want.
 or just place the picture in the folder, rename it to input, and run the batch file in there.
+
+Run it as many times as you need to keep doubling the resolution!
